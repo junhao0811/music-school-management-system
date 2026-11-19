@@ -1,0 +1,6 @@
+*.pyc
+# Generated when the app runs
+msms.log
+data/backups/
+reports/
+.pytest_cache/
